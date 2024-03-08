@@ -1,0 +1,29 @@
+.super:hover {
+  color: red;
+}
+.palu:hover {
+  box-shadow: 1px 1px 6px rgb(211, 209, 209);
+}
+.pop:hover {
+  background-color: #e9e6fc;
+}
+.popwe {
+  color: #b7b7ba;
+}
+.popwe:hover {
+  background-color: #e9e6fc;
+  color: white;
+}
+.lapak:hover {
+  background-color: #e6e5e7;
+}
+.lapakin:hover {
+  background-color: #cccacc;
+}
+.danger {
+  color: red;
+}
+.danger:hover {
+  background-color: #cf4550;
+  color: white;
+}
